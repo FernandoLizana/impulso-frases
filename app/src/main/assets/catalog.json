@@ -1,0 +1,1161 @@
+{
+  "catalogVersion": 1,
+  "quotes": [
+    {
+      "id": "frase_proposito_002",
+      "text": "Simplemente atrévete a asumir que tú eres quien realmente quieres ser.",
+      "author": "Neville Goddard",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "proposito",
+      "tone": "espiritual",
+      "tags": [
+        "asumir"
+      ],
+      "reflection": "¿Qué parte de tu día se parece a lo que quieres sostener?",
+      "microAction": "Dedica diez minutos a eso, sin añadir otra meta.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Just dare to assume that you are who you truly want to be"
+    },
+    {
+      "id": "frase_gratitud_003",
+      "text": "El exito no es la clave de la felicidad. La felicidad es la clave del exito. Si amas lo que haces, seras exitoso.",
+      "author": "Albert Schweitzer",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "gratitud",
+      "tone": "cercano",
+      "tags": [
+        "felicidad"
+      ],
+      "reflection": "¿Qué ya está presente y sueles pasar por alto?",
+      "microAction": "Nombra en voz baja una cosa concreta que te haga bien.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Success is not the key to happiness. Happiness is the key to success. If you love what you do, you will be successful."
+    },
+    {
+      "id": "frase_proposito_004",
+      "text": "El único modo de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "proposito",
+      "tone": "directo",
+      "tags": [
+        "oficio"
+      ],
+      "reflection": "¿Qué parte de tu día se parece a lo que quieres sostener?",
+      "microAction": "Dedica diez minutos a eso, sin añadir otra meta.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The only way to do great work is to love what you do."
+    },
+    {
+      "id": "frase_cambios_005",
+      "text": "La vida es 10% lo que nos sucede y 90% cómo reaccionamos ante ello.",
+      "author": "Charles R. Swindoll",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "cambios",
+      "tone": "cercano",
+      "tags": [
+        "reaccion"
+      ],
+      "reflection": "¿Qué puedes aceptar de este momento sin pelearte con él?",
+      "microAction": "Anota un cambio pequeño que sí esté en tus manos.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Life is 10% what happens to us and 90% how we react to it."
+    },
+    {
+      "id": "frase_cambios_006",
+      "text": "Nunca es demasiado tarde para ser lo que podrías haber sido.",
+      "author": "George Eliot",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "cambios",
+      "tone": "cercano",
+      "tags": [
+        "tiempo"
+      ],
+      "reflection": "¿Qué puedes aceptar de este momento sin pelearte con él?",
+      "microAction": "Anota un cambio pequeño que sí esté en tus manos.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "It's never too late to be what you might have been."
+    },
+    {
+      "id": "frase_proposito_007",
+      "text": "La única manera de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "proposito",
+      "tone": "directo",
+      "tags": [
+        "oficio"
+      ],
+      "reflection": "¿Qué parte de tu día se parece a lo que quieres sostener?",
+      "microAction": "Dedica diez minutos a eso, sin añadir otra meta.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The only way to do great work is to love what you do."
+    },
+    {
+      "id": "frase_creatividad_008",
+      "text": "La imaginación es más importante que el conocimiento.",
+      "author": "Albert Einstein",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "creatividad",
+      "tone": "cercano",
+      "tags": [
+        "imaginacion"
+      ],
+      "reflection": "¿Qué idea llevas rato sin darle un lugar?",
+      "microAction": "Anota esa idea en una línea, sin juzgarla.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Imagination is more important than knowledge."
+    },
+    {
+      "id": "frase_confianza_009",
+      "text": "El único límite para nuestros logros de mañana será nuestras dudas de hoy.\"",
+      "author": "Franklin D. Roosevelt",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "confianza",
+      "tone": "directo",
+      "tags": [
+        "duda"
+      ],
+      "reflection": "¿Qué duda te está frenando más que el hecho mismo?",
+      "microAction": "Da un paso visible y pequeño a pesar de esa duda.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The only limit to our realization of tomorrow will be our doubts of today."
+    },
+    {
+      "id": "frase_confianza_010",
+      "text": "Cree que puedes y ya estás a medio camino.",
+      "author": "Theodore Roosevelt",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "confianza",
+      "tone": "cercano",
+      "tags": [
+        "creer"
+      ],
+      "reflection": "¿Qué duda te está frenando más que el hecho mismo?",
+      "microAction": "Da un paso visible y pequeño a pesar de esa duda.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Believe you can and you're halfway there."
+    },
+    {
+      "id": "frase_proposito_011",
+      "text": "La mejor venganza es un éxito masivo.",
+      "author": "Frank Sinatra",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "proposito",
+      "tone": "directo",
+      "tags": [
+        "logro"
+      ],
+      "reflection": "¿Qué parte de tu día se parece a lo que quieres sostener?",
+      "microAction": "Dedica diez minutos a eso, sin añadir otra meta.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The best revenge is massive success."
+    },
+    {
+      "id": "frase_creatividad_012",
+      "text": "El futuro pertenece a aquellos que creen en la belleza de sus sueños.",
+      "author": "Eleanor Roosevelt",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "creatividad",
+      "tone": "cercano",
+      "tags": [
+        "sueno"
+      ],
+      "reflection": "¿Qué idea llevas rato sin darle un lugar?",
+      "microAction": "Anota esa idea en una línea, sin juzgarla.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The future belongs to those who believe in the beauty of their dreams."
+    },
+    {
+      "id": "frase_enfoque_013",
+      "text": "La educación es el pasaporte hacia el futuro, el mañana pertenece a aquellos que se preparan para ello en el día de hoy.",
+      "author": "Malcolm X",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "enfoque",
+      "tone": "directo",
+      "tags": [
+        "aprendizaje"
+      ],
+      "reflection": "¿Qué merece tu atención en la próxima media hora?",
+      "microAction": "Elige una sola tarea y aparta lo que la interrumpe.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "\"Education is the passport to the future, for tomorrow belongs to those who prepare for it today."
+    },
+    {
+      "id": "frase_descanso_014",
+      "text": "La vida es lo que sucede cuando estás ocupado haciendo otros planes.",
+      "author": "John Lennon",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "descanso",
+      "tone": "cercano",
+      "tags": [
+        "pausa"
+      ],
+      "reflection": "¿Qué señal de cansancio ya apareció hoy?",
+      "microAction": "Deja un hueco breve sin llenarlo con otra tarea.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Life is what happens when you're busy making other plans."
+    },
+    {
+      "id": "frase_resiliencia_015",
+      "text": "El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el valor para continuar.",
+      "author": "Winston Churchill",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "resiliencia",
+      "tone": "directo",
+      "tags": [
+        "continuar"
+      ],
+      "reflection": "¿Qué tropiezo puedes mirar sin convertirlo en una sentencia?",
+      "microAction": "Escribe el siguiente paso después de ese tropiezo.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+    },
+    {
+      "id": "frase_relaciones_017",
+      "text": "El tiempo es limitado, no lo malgastes viviendo la vida de otra persona.",
+      "author": "Steve Jobs",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "relaciones",
+      "tone": "directo",
+      "tags": [
+        "tiempo"
+      ],
+      "reflection": "¿A quién puedes tratar con más cuidado, incluyéndote?",
+      "microAction": "Envía o di una frase breve y honesta a esa persona.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Your time is limited, don't waste it living someone else's life."
+    },
+    {
+      "id": "frase_constancia_018",
+      "text": "No cuentes los días, haz que los días cuenten.",
+      "author": "Muhammad Ali",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "constancia",
+      "tone": "directo",
+      "tags": [
+        "dia"
+      ],
+      "reflection": "¿Qué paso pequeño cabe hoy, aunque sea corto?",
+      "microAction": "Haz hoy solo ese paso y márcalo cuando termines.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Don't count the days, make the days count."
+    },
+    {
+      "id": "frase_constancia_019",
+      "text": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+      "author": "Robert Collier",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "constancia",
+      "tone": "directo",
+      "tags": [
+        "esfuerzo"
+      ],
+      "reflection": "¿Qué paso pequeño cabe hoy, aunque sea corto?",
+      "microAction": "Haz hoy solo ese paso y márcalo cuando termines.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Success is the sum of small efforts repeated day in and day out."
+    },
+    {
+      "id": "frase_resiliencia_020",
+      "text": "La adversidad nos presenta oportunidades que no existirían en circunstancias favorables.",
+      "author": "Malcolm X",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "resiliencia",
+      "tone": "directo",
+      "tags": [
+        "adversidad"
+      ],
+      "reflection": "¿Qué tropiezo puedes mirar sin convertirlo en una sentencia?",
+      "microAction": "Escribe el siguiente paso después de ese tropiezo.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Adversity introduces a man to himself."
+    },
+    {
+      "id": "frase_constancia_021",
+      "text": "La perseverancia no es una carrera larga, sino muchos sprints cortos, uno tras otro.",
+      "author": "Walter Elliot",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "constancia",
+      "tone": "directo",
+      "tags": [
+        "paso"
+      ],
+      "reflection": "¿Qué paso pequeño cabe hoy, aunque sea corto?",
+      "microAction": "Haz hoy solo ese paso y márcalo cuando termines.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Perseverance is not a long race, but many short sprints, one after the other."
+    },
+    {
+      "id": "frase_cambios_022",
+      "text": "Cada día es una nueva oportunidad para cambiar tu vida.",
+      "author": "Autor desconocido",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "cambios",
+      "tone": "cercano",
+      "tags": [
+        "oportunidad"
+      ],
+      "reflection": "¿Qué puedes aceptar de este momento sin pelearte con él?",
+      "microAction": "Anota un cambio pequeño que sí esté en tus manos.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Every day is a new opportunity to change your life."
+    },
+    {
+      "id": "frase_constancia_023",
+      "text": "El camino hacia el éxito y la grandeza está siempre en construcción.",
+      "author": "Oprah Winfrey",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "constancia",
+      "tone": "cercano",
+      "tags": [
+        "camino"
+      ],
+      "reflection": "¿Qué paso pequeño cabe hoy, aunque sea corto?",
+      "microAction": "Haz hoy solo ese paso y márcalo cuando termines.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The path to success and greatness is always in construction."
+    },
+    {
+      "id": "frase_autoestima_024",
+      "text": "Cree en ti mismo y en todo lo que eres. Sepa que hay algo dentro de ti que es más grande que cualquier obstáculo.",
+      "author": "Christian D. Larson",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "autoestima",
+      "tone": "cercano",
+      "tags": [
+        "valor"
+      ],
+      "reflection": "¿Qué parte de ti no depende de la opinión de otros?",
+      "microAction": "Escribe una cualidad tuya que quieras tratar con más respeto.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle."
+    },
+    {
+      "id": "frase_confianza_025",
+      "text": "El optimismo perpetuo multiplica las fuerzas.",
+      "author": "Colin Powell",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "confianza",
+      "tone": "directo",
+      "tags": [
+        "animo"
+      ],
+      "reflection": "¿Qué duda te está frenando más que el hecho mismo?",
+      "microAction": "Da un paso visible y pequeño a pesar de esa duda.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Perpetual optimism is a force multiplier."
+    },
+    {
+      "id": "frase_proposito_026",
+      "text": "La única forma de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "proposito",
+      "tone": "directo",
+      "tags": [
+        "oficio"
+      ],
+      "reflection": "¿Qué parte de tu día se parece a lo que quieres sostener?",
+      "microAction": "Dedica diez minutos a eso, sin añadir otra meta.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The only way to do great work is to love what you do."
+    },
+    {
+      "id": "frase_enfoque_027",
+      "text": "No busques errores, busca soluciones.",
+      "author": "Henry Ford",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "enfoque",
+      "tone": "directo",
+      "tags": [
+        "solucion"
+      ],
+      "reflection": "¿Qué merece tu atención en la próxima media hora?",
+      "microAction": "Elige una sola tarea y aparta lo que la interrumpe.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Don't find fault, find a remedy."
+    },
+    {
+      "id": "frase_confianza_029",
+      "text": "La actitud es una pequeña cosa que hace una gran diferencia.",
+      "author": "Winston Churchill",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "confianza",
+      "tone": "cercano",
+      "tags": [
+        "actitud"
+      ],
+      "reflection": "¿Qué duda te está frenando más que el hecho mismo?",
+      "microAction": "Da un paso visible y pequeño a pesar de esa duda.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Attitude is a little thing that makes a big difference."
+    },
+    {
+      "id": "frase_resiliencia_030",
+      "text": "El éxito no se trata de la posición que alcanzas en la vida, sino de los obstáculos que superas.",
+      "author": "Booker T. Washington",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "resiliencia",
+      "tone": "directo",
+      "tags": [
+        "obstaculo"
+      ],
+      "reflection": "¿Qué tropiezo puedes mirar sin convertirlo en una sentencia?",
+      "microAction": "Escribe el siguiente paso después de ese tropiezo.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Success is not about the position you reach in life, but the obstacles you overcome."
+    },
+    {
+      "id": "frase_resiliencia_032",
+      "text": "El éxito es aprender a ir de fracaso en fracaso sin desesperarse.",
+      "author": "Winston Churchill",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "resiliencia",
+      "tone": "directo",
+      "tags": [
+        "fracaso"
+      ],
+      "reflection": "¿Qué tropiezo puedes mirar sin convertirlo en una sentencia?",
+      "microAction": "Escribe el siguiente paso después de ese tropiezo.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Success is learning to go from failure to failure without losing your enthusiasm."
+    },
+    {
+      "id": "frase_constancia_033",
+      "text": "No importa lo lento que vayas mientras no te detengas.",
+      "author": "Confucio",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "constancia",
+      "tone": "cercano",
+      "tags": [
+        "ritmo"
+      ],
+      "reflection": "¿Qué paso pequeño cabe hoy, aunque sea corto?",
+      "microAction": "Haz hoy solo ese paso y márcalo cuando termines.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "It does not matter how slowly you go as long as you do not stop."
+    },
+    {
+      "id": "frase_enfoque_034",
+      "text": "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
+      "author": "Nelson Mandela",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "enfoque",
+      "tone": "directo",
+      "tags": [
+        "aprendizaje"
+      ],
+      "reflection": "¿Qué merece tu atención en la próxima media hora?",
+      "microAction": "Elige una sola tarea y aparta lo que la interrumpe.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Education is the most powerful weapon you can use to change the world."
+    },
+    {
+      "id": "frase_calma_035",
+      "text": "La vida es lo que pasa mientras estás ocupado haciendo otros planes.",
+      "author": "John Lennon",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "calma",
+      "tone": "cercano",
+      "tags": [
+        "presente"
+      ],
+      "reflection": "¿Dónde puedes aflojar el ritmo sin abandonar lo importante?",
+      "microAction": "Haz una pausa de un minuto antes de la siguiente tarea.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Life is what happens when you're busy making other plans."
+    },
+    {
+      "id": "frase_confianza_036",
+      "text": "El mayor placer en la vida es hacer lo que la gente dice que no puedes hacer.",
+      "author": "Walter Bagehot",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "confianza",
+      "tone": "directo",
+      "tags": [
+        "valor"
+      ],
+      "reflection": "¿Qué duda te está frenando más que el hecho mismo?",
+      "microAction": "Da un paso visible y pequeño a pesar de esa duda.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The greatest pleasure in life is doing what people say you cannot do."
+    },
+    {
+      "id": "frase_constancia_037",
+      "text": "La perseverancia no es una carrera larga, es muchas carreras cortas, una tras otra.",
+      "author": "Walter Elliot",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "constancia",
+      "tone": "directo",
+      "tags": [
+        "paso"
+      ],
+      "reflection": "¿Qué paso pequeño cabe hoy, aunque sea corto?",
+      "microAction": "Haz hoy solo ese paso y márcalo cuando termines.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Perseverance is not a long race; it is many short races, one after the other."
+    },
+    {
+      "id": "frase_enfoque_038",
+      "text": "El secreto de salir adelante es comenzar.",
+      "author": "Mark Twain",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "enfoque",
+      "tone": "directo",
+      "tags": [
+        "inicio"
+      ],
+      "reflection": "¿Qué merece tu atención en la próxima media hora?",
+      "microAction": "Elige una sola tarea y aparta lo que la interrumpe.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The secret of getting ahead is getting started."
+    },
+    {
+      "id": "frase_cambios_039",
+      "text": "Nunca eres demasiado viejo para establecer otro objetivo o soñar un nuevo sueño.",
+      "author": "C.S. Lewis",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "cambios",
+      "tone": "cercano",
+      "tags": [
+        "meta"
+      ],
+      "reflection": "¿Qué puedes aceptar de este momento sin pelearte con él?",
+      "microAction": "Anota un cambio pequeño que sí esté en tus manos.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "You are never too old to set another goal or to dream a new dream."
+    },
+    {
+      "id": "frase_confianza_040",
+      "text": "La única limitación es la que te pones a ti mismo.",
+      "author": "Franklin D. Roosevelt",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "confianza",
+      "tone": "directo",
+      "tags": [
+        "limite"
+      ],
+      "reflection": "¿Qué duda te está frenando más que el hecho mismo?",
+      "microAction": "Da un paso visible y pequeño a pesar de esa duda.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The only limit to our realization of tomorrow will be our doubts of today."
+    },
+    {
+      "id": "frase_gratitud_041",
+      "text": "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que haces, tendrás éxito.",
+      "author": "Albert Schweitzer",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "gratitud",
+      "tone": "cercano",
+      "tags": [
+        "felicidad"
+      ],
+      "reflection": "¿Qué ya está presente y sueles pasar por alto?",
+      "microAction": "Nombra en voz baja una cosa concreta que te haga bien.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."
+    },
+    {
+      "id": "frase_autoestima_042",
+      "text": "Cree en ti mismo y todo será posible.",
+      "author": "Christian D. Larson",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "autoestima",
+      "tone": "cercano",
+      "tags": [
+        "valor"
+      ],
+      "reflection": "¿Qué parte de ti no depende de la opinión de otros?",
+      "microAction": "Escribe una cualidad tuya que quieras tratar con más respeto.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle."
+    },
+    {
+      "id": "frase_proposito_046",
+      "text": "La mejor manera de predecir el futuro es crearlo.",
+      "author": "Peter Drucker",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "proposito",
+      "tone": "directo",
+      "tags": [
+        "futuro"
+      ],
+      "reflection": "¿Qué parte de tu día se parece a lo que quieres sostener?",
+      "microAction": "Dedica diez minutos a eso, sin añadir otra meta.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The best way to predict the future is to create it."
+    },
+    {
+      "id": "frase_resiliencia_047",
+      "text": "Nuestra mayor gloria no radica en no haber fracasado nunca, sino en levantarnos cada vez que caemos.",
+      "author": "Confucius",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "resiliencia",
+      "tone": "cercano",
+      "tags": [
+        "levantarse"
+      ],
+      "reflection": "¿Qué tropiezo puedes mirar sin convertirlo en una sentencia?",
+      "microAction": "Escribe el siguiente paso después de ese tropiezo.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Our greatest glory is not in never failing, but in rising up every time we fail."
+    },
+    {
+      "id": "frase_confianza_048",
+      "text": "El único límite para nuestros logros de mañana son nuestras dudas de hoy.",
+      "author": "Franklin D. Roosevelt",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "confianza",
+      "tone": "directo",
+      "tags": [
+        "duda"
+      ],
+      "reflection": "¿Qué duda te está frenando más que el hecho mismo?",
+      "microAction": "Da un paso visible y pequeño a pesar de esa duda.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The only limit to our realization of tomorrow will be our doubts of today."
+    },
+    {
+      "id": "frase_constancia_049",
+      "text": "El camino hacia el éxito y la grandeza no es fácil, pero merece la pena.",
+      "author": "Les Brown",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "constancia",
+      "tone": "cercano",
+      "tags": [
+        "camino"
+      ],
+      "reflection": "¿Qué paso pequeño cabe hoy, aunque sea corto?",
+      "microAction": "Haz hoy solo ese paso y márcalo cuando termines.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The road to success and the road to failure are almost exactly the same, but the journey to success is worth it."
+    },
+    {
+      "id": "frase_resiliencia_052",
+      "text": "No importa cuántas veces hayas fallado, siempre puedes intentarlo de nuevo y tener éxito.",
+      "author": "Madonna",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "resiliencia",
+      "tone": "cercano",
+      "tags": [
+        "intento"
+      ],
+      "reflection": "¿Qué tropiezo puedes mirar sin convertirlo en una sentencia?",
+      "microAction": "Escribe el siguiente paso después de ese tropiezo.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "It doesn't matter how many times you have failed, you can always try again and succeed."
+    },
+    {
+      "id": "frase_creatividad_053",
+      "text": "El futuro pertenece a quienes creen en la belleza de sus sueños.",
+      "author": "Eleanor Roosevelt",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "creatividad",
+      "tone": "cercano",
+      "tags": [
+        "sueno"
+      ],
+      "reflection": "¿Qué idea llevas rato sin darle un lugar?",
+      "microAction": "Anota esa idea en una línea, sin juzgarla.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The future belongs to those who believe in the beauty of their dreams."
+    },
+    {
+      "id": "frase_constancia_054",
+      "text": "La perseverancia es no solo hacer lo que te gusta, sino hacerlo una y otra vez, incluso cuando es difícil.",
+      "author": "Autor desconocido",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "constancia",
+      "tone": "directo",
+      "tags": [
+        "repetir"
+      ],
+      "reflection": "¿Qué paso pequeño cabe hoy, aunque sea corto?",
+      "microAction": "Haz hoy solo ese paso y márcalo cuando termines.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Perseverance is not just doing what you love, but doing it over and over again, even when it's hard."
+    },
+    {
+      "id": "frase_proposito_057",
+      "text": "Elige un trabajo que ames, y no tendrás que trabajar ni un día en tu vida.",
+      "author": "Confucius",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "proposito",
+      "tone": "cercano",
+      "tags": [
+        "oficio"
+      ],
+      "reflection": "¿Qué parte de tu día se parece a lo que quieres sostener?",
+      "microAction": "Dedica diez minutos a eso, sin añadir otra meta.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Choose a job you love, and you will never have to work a day in your life."
+    },
+    {
+      "id": "frase_cambios_058",
+      "text": "Nunca es demasiado tarde para ser quien podrías haber sido.",
+      "author": "George Eliot",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "cambios",
+      "tone": "cercano",
+      "tags": [
+        "tiempo"
+      ],
+      "reflection": "¿Qué puedes aceptar de este momento sin pelearte con él?",
+      "microAction": "Anota un cambio pequeño que sí esté en tus manos.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "It is never too late to be what you might have been."
+    },
+    {
+      "id": "frase_constancia_060",
+      "text": "Cada día es una oportunidad para ser mejor que ayer.",
+      "author": "Autor desconocido",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "constancia",
+      "tone": "cercano",
+      "tags": [
+        "dia"
+      ],
+      "reflection": "¿Qué paso pequeño cabe hoy, aunque sea corto?",
+      "microAction": "Haz hoy solo ese paso y márcalo cuando termines.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Every day is an opportunity to become a better version of yesterday."
+    },
+    {
+      "id": "frase_creatividad_061",
+      "text": "La imaginación crea la realidad.",
+      "author": "Neville Goddard",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "creatividad",
+      "tone": "espiritual",
+      "tags": [
+        "imaginacion"
+      ],
+      "reflection": "¿Qué idea llevas rato sin darle un lugar?",
+      "microAction": "Anota esa idea en una línea, sin juzgarla.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Imagination creates reality."
+    },
+    {
+      "id": "frase_confianza_062",
+      "text": "La fe es la sustancia de las cosas que se esperan, la evidencia de las cosas que no se ven.",
+      "author": "Neville Goddard",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "confianza",
+      "tone": "espiritual",
+      "tags": [
+        "fe"
+      ],
+      "reflection": "¿Qué duda te está frenando más que el hecho mismo?",
+      "microAction": "Da un paso visible y pequeño a pesar de esa duda.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Faith is the substance of things hoped for, the evidence of things not seen."
+    },
+    {
+      "id": "frase_creatividad_063",
+      "text": "Todo lo que experimentamos es el resultado de lo que imaginamos.",
+      "author": "Neville Goddard",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "creatividad",
+      "tone": "espiritual",
+      "tags": [
+        "imaginacion"
+      ],
+      "reflection": "¿Qué idea llevas rato sin darle un lugar?",
+      "microAction": "Anota esa idea en una línea, sin juzgarla.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Everything we experience is the result of what we imagine."
+    },
+    {
+      "id": "frase_cambios_064",
+      "text": "El cambio en lo que estamos experimentando es un cambio en la mente de la que todos los eventos fluyen.",
+      "author": "Neville Goddard",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "cambios",
+      "tone": "espiritual",
+      "tags": [
+        "mente"
+      ],
+      "reflection": "¿Qué puedes aceptar de este momento sin pelearte con él?",
+      "microAction": "Anota un cambio pequeño que sí esté en tus manos.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The change we seek in what we are experiencing is a change in the mind from which all events flow."
+    },
+    {
+      "id": "frase_calma_065",
+      "text": "El mundo exterior no es más que un reflejo de nuestro mundo interior.",
+      "author": "Neville Goddard",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "calma",
+      "tone": "espiritual",
+      "tags": [
+        "interior"
+      ],
+      "reflection": "¿Dónde puedes aflojar el ritmo sin abandonar lo importante?",
+      "microAction": "Haz una pausa de un minuto antes de la siguiente tarea.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The outer world is nothing more than a reflection of our inner world."
+    },
+    {
+      "id": "frase_confianza_066",
+      "text": "La fe es el fuego con el que todos los logros se realizan.",
+      "author": "Neville Goddard",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "confianza",
+      "tone": "espiritual",
+      "tags": [
+        "fe"
+      ],
+      "reflection": "¿Qué duda te está frenando más que el hecho mismo?",
+      "microAction": "Da un paso visible y pequeño a pesar de esa duda.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Faith is the fire with which all things are accomplished."
+    },
+    {
+      "id": "frase_proposito_067",
+      "text": "Debes asumir que eres lo que quieres ser y seguir persistiendo en esa asunción hasta que se manifieste.",
+      "author": "Neville Goddard",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "proposito",
+      "tone": "espiritual",
+      "tags": [
+        "asumir"
+      ],
+      "reflection": "¿Qué parte de tu día se parece a lo que quieres sostener?",
+      "microAction": "Dedica diez minutos a eso, sin añadir otra meta.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "You must assume that you are what you want to be and continue persistently in that assumption until it hardens into fact."
+    },
+    {
+      "id": "frase_creatividad_068",
+      "text": "La imaginación es el principio de la creación.",
+      "author": "Neville Goddard",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "creatividad",
+      "tone": "espiritual",
+      "tags": [
+        "imaginacion"
+      ],
+      "reflection": "¿Qué idea llevas rato sin darle un lugar?",
+      "microAction": "Anota esa idea en una línea, sin juzgarla.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Imagination is the beginning of creation."
+    },
+    {
+      "id": "frase_autoestima_069",
+      "text": "Tú eres el único creador de tu realidad. Para cambiar tu vida, debes cambiar tu imaginación.",
+      "author": "Neville Goddard",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "autoestima",
+      "tone": "espiritual",
+      "tags": [
+        "realidad"
+      ],
+      "reflection": "¿Qué parte de ti no depende de la opinión de otros?",
+      "microAction": "Escribe una cualidad tuya que quieras tratar con más respeto.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "You are the sole creator of your reality. To change your life, you must change your imagination."
+    },
+    {
+      "id": "frase_confianza_070",
+      "text": "El deseo es el primer paso hacia la realización. La fe es el paso siguiente.",
+      "author": "Neville Goddard",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "confianza",
+      "tone": "espiritual",
+      "tags": [
+        "deseo"
+      ],
+      "reflection": "¿Qué duda te está frenando más que el hecho mismo?",
+      "microAction": "Da un paso visible y pequeño a pesar de esa duda.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Desire is the first step to realization. Faith is the next step."
+    },
+    {
+      "id": "frase_creatividad_071",
+      "text": "La verdadera misión del arte es sacar al hombre de su estado terrestre.",
+      "author": "Alejandro Jodorowsky",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "creatividad",
+      "tone": "espiritual",
+      "tags": [
+        "arte"
+      ],
+      "reflection": "¿Qué idea llevas rato sin darle un lugar?",
+      "microAction": "Anota esa idea en una línea, sin juzgarla.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The true mission of art is to take man out of his terrestrial state."
+    },
+    {
+      "id": "frase_relaciones_072",
+      "text": "Lo más importante es el amor. No importa de dónde viene, a dónde va, cuánto cuesta, cuánto duele. No importa si se logra o no. De lo que estamos seguros es que el amor es lo más importante.",
+      "author": "Alejandro Jodorowsky",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "relaciones",
+      "tone": "espiritual",
+      "tags": [
+        "amor"
+      ],
+      "reflection": "¿A quién puedes tratar con más cuidado, incluyéndote?",
+      "microAction": "Envía o di una frase breve y honesta a esa persona.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The most important thing is love. It doesn't matter where it comes from, where it's going, how much it costs, how much it hurts. It doesn't matter if you achieve it or not. What we are sure of is that love is the most important thing."
+    },
+    {
+      "id": "frase_relaciones_073",
+      "text": "La única venganza es el perdón.",
+      "author": "Alejandro Jodorowsky",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "relaciones",
+      "tone": "espiritual",
+      "tags": [
+        "perdon"
+      ],
+      "reflection": "¿A quién puedes tratar con más cuidado, incluyéndote?",
+      "microAction": "Envía o di una frase breve y honesta a esa persona.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The only revenge is forgiveness."
+    },
+    {
+      "id": "frase_proposito_074",
+      "text": "La vida es una película que tú mismo escribes, diriges y protagonizas. No permitas que nadie más escriba tu guion.",
+      "author": "Alejandro Jodorowsky",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "proposito",
+      "tone": "espiritual",
+      "tags": [
+        "guion"
+      ],
+      "reflection": "¿Qué parte de tu día se parece a lo que quieres sostener?",
+      "microAction": "Dedica diez minutos a eso, sin añadir otra meta.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Life is a movie that you write, direct, and star in. Don't let anyone else write your script."
+    },
+    {
+      "id": "frase_autoestima_075",
+      "text": "No tienes que ser mejor que nadie más, solo mejor de lo que solías ser.",
+      "author": "Alejandro Jodorowsky",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "autoestima",
+      "tone": "espiritual",
+      "tags": [
+        "comparacion"
+      ],
+      "reflection": "¿Qué parte de ti no depende de la opinión de otros?",
+      "microAction": "Escribe una cualidad tuya que quieras tratar con más respeto.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "You don't have to be better than anyone else, just better than you used to be."
+    },
+    {
+      "id": "frase_cambios_076",
+      "text": "La verdadera revolución es la revolución de la conciencia.",
+      "author": "Alejandro Jodorowsky",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "cambios",
+      "tone": "espiritual",
+      "tags": [
+        "conciencia"
+      ],
+      "reflection": "¿Qué puedes aceptar de este momento sin pelearte con él?",
+      "microAction": "Anota un cambio pequeño que sí esté en tus manos.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "The real revolution is the revolution of consciousness."
+    },
+    {
+      "id": "frase_creatividad_077",
+      "text": "La locura es lo más sensato en un mundo de locos.",
+      "author": "Alejandro Jodorowsky",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "creatividad",
+      "tone": "espiritual",
+      "tags": [
+        "mirada"
+      ],
+      "reflection": "¿Qué idea llevas rato sin darle un lugar?",
+      "microAction": "Anota esa idea en una línea, sin juzgarla.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Madness is the most sensible thing in a world of madmen."
+    },
+    {
+      "id": "frase_proposito_078",
+      "text": "El éxito es como la muerte. Si se teme o se anhela, se demuestra que no se ha entendido.",
+      "author": "Alejandro Jodorowsky",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "proposito",
+      "tone": "espiritual",
+      "tags": [
+        "exito"
+      ],
+      "reflection": "¿Qué parte de tu día se parece a lo que quieres sostener?",
+      "microAction": "Dedica diez minutos a eso, sin añadir otra meta.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Success is like death. If it is feared or desired, it shows that it has not been understood."
+    },
+    {
+      "id": "frase_autoestima_079",
+      "text": "La belleza está en el corazón del que mira.",
+      "author": "Alejandro Jodorowsky",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "autoestima",
+      "tone": "espiritual",
+      "tags": [
+        "belleza"
+      ],
+      "reflection": "¿Qué parte de ti no depende de la opinión de otros?",
+      "microAction": "Escribe una cualidad tuya que quieras tratar con más respeto.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Beauty is in the heart of the beholder."
+    },
+    {
+      "id": "frase_gratitud_080",
+      "text": "Nada tiene sentido si no estás contento. La felicidad no es un punto de llegada, es el punto de partida.",
+      "author": "Alejandro Jodorowsky",
+      "authorship": "attributed",
+      "sourceUrl": null,
+      "category": "gratitud",
+      "tone": "espiritual",
+      "tags": [
+        "felicidad"
+      ],
+      "reflection": "¿Qué ya está presente y sueles pasar por alto?",
+      "microAction": "Nombra en voz baja una cosa concreta que te haga bien.",
+      "locale": "es",
+      "catalogVersion": 1,
+      "english": "Nothing makes sense if you're not happy. Happiness is not a destination, it's the starting point."
+    }
+  ]
+}

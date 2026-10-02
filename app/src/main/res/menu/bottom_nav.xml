@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/todayFragment"
+        android:icon="@drawable/ic_nav_today"
+        android:title="@string/nav_today" />
+    <item
+        android:id="@+id/exploreFragment"
+        android:icon="@drawable/ic_nav_explore"
+        android:title="@string/nav_explore" />
+    <item
+        android:id="@+id/collectionFragment"
+        android:icon="@drawable/ic_nav_collection"
+        android:title="@string/nav_collection" />
+    <item
+        android:id="@+id/remindersFragment"
+        android:icon="@drawable/ic_nav_reminders"
+        android:title="@string/nav_reminders" />
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/ic_nav_settings"
+        android:title="@string/nav_settings" />
+</menu>

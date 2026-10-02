@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Impulso" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSecondary">@color/primary_brand</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorOnSurfaceVariant">@color/text_secondary</item>
+        <item name="colorOutline">@color/outline</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="Theme.Impulso.Illustration" parent="Theme.Impulso">
+        <item name="colorPrimary">@color/illustration_primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSecondary">@color/illustration_sky</item>
+        <item name="android:colorBackground">@color/illustration_background</item>
+        <item name="colorSurface">@color/illustration_surface</item>
+        <item name="android:windowBackground">@color/illustration_background</item>
+    </style>
+
+    <style name="Theme.Impulso.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_digital_rider</item>
+        <item name="postSplashScreenTheme">@style/Theme.Impulso</item>
+    </style>
+
+    <style name="TextAppearance.Impulso.Quote" parent="TextAppearance.Material3.HeadlineSmall">
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:lineSpacingMultiplier">1.15</item>
+    </style>
+
+    <style name="TextAppearance.Impulso.Author" parent="TextAppearance.Material3.TitleMedium">
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+</resources>

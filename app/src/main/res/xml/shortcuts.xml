@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="today"
+        android:enabled="true"
+        android:shortcutShortLabel="@string/shortcut_today"
+        android:shortcutLongLabel="@string/shortcut_today">
+        <intent
+            android:action="com.example.impulso.TODAY"
+            android:targetPackage="com.example.impulso"
+            android:targetClass="com.example.impulso.ui.welcome.WelcomeActivity" />
+    </shortcut>
+    <shortcut
+        android:shortcutId="listen"
+        android:enabled="true"
+        android:shortcutShortLabel="@string/shortcut_listen"
+        android:shortcutLongLabel="@string/shortcut_listen">
+        <intent
+            android:action="com.example.impulso.LISTEN"
+            android:targetPackage="com.example.impulso"
+            android:targetClass="com.example.impulso.ui.welcome.WelcomeActivity" />
+    </shortcut>
+</shortcuts>

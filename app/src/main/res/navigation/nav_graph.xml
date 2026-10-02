@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/todayFragment">
+    <fragment
+        android:id="@+id/todayFragment"
+        android:name="com.example.impulso.ui.today.TodayFragment"
+        android:label="@string/nav_today" />
+    <fragment
+        android:id="@+id/exploreFragment"
+        android:name="com.example.impulso.ui.explore.ExploreFragment"
+        android:label="@string/nav_explore" />
+    <fragment
+        android:id="@+id/collectionFragment"
+        android:name="com.example.impulso.ui.collection.CollectionFragment"
+        android:label="@string/nav_collection" />
+    <fragment
+        android:id="@+id/remindersFragment"
+        android:name="com.example.impulso.ui.reminders.RemindersFragment"
+        android:label="@string/nav_reminders" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.impulso.ui.settings.SettingsFragment"
+        android:label="@string/nav_settings" />
+</navigation>
