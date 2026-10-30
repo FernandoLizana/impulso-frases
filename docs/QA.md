@@ -2,7 +2,7 @@
 
 Fecha: 29 de septiembre de 2026.
 
-El catálogo que se recorrió en esas capturas era el provisional. Después se reemplazó por las 68 frases distintas de la hoja Frases, con el autor de la planilla, y el icono pasó a ser el logo de Digital Rider SpA.
+El catálogo que se recorrió en esas capturas era el provisional. Después se reemplazó por las 68 frases distintas de la hoja Frases, con el autor de la planilla, y el icono pasó a ser el logo propio de Impulso.
 
 Dispositivo: emulador `Medium_Phone`, imagen `google_apis` x86_64, API 36 (`sdk_gphone64_x86_64`). El informe de instrumentación lo nombra `Medium_Phone(AVD) - 16`.
 

@@ -76,7 +76,7 @@ public final class ShareCardRenderer {
         brand.setTypeface(Typeface.create("sans-serif", Typeface.NORMAL));
         int logoSize = 96;
         int brandBaseline = height - margin;
-        Bitmap logo = BitmapFactory.decodeResource(context.getResources(), R.drawable.logo_digital_rider);
+        Bitmap logo = BitmapFactory.decodeResource(context.getResources(), R.drawable.logo_impulso);
         if (logo != null) {
             Bitmap scaled = Bitmap.createScaledBitmap(logo, logoSize, logoSize, true);
             canvas.drawBitmap(scaled, margin, brandBaseline - logoSize + 8, null);
@@ -84,7 +84,7 @@ public final class ShareCardRenderer {
                 scaled.recycle();
             }
         }
-        canvas.drawText("Digital Rider", margin + logoSize + 24, brandBaseline - 28, brand);
+        canvas.drawText("Impulso", margin + logoSize + 24, brandBaseline - 28, brand);
         TextPaint seal = new TextPaint(Paint.ANTI_ALIAS_FLAG);
         seal.setColor(Color.parseColor("#6E6578"));
         seal.setTextSize(22);

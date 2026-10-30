@@ -6,8 +6,7 @@
     <string name="nav_collection">Mi colección</string>
     <string name="nav_reminders">Recordatorios</string>
     <string name="nav_settings">Ajustes</string>
-    <string name="cd_logo">Logo de Digital Rider</string>
-    <string name="company_name">Digital Rider SpA</string>
+    <string name="cd_logo">Logo de Impulso</string>
     <string name="cd_favorite">Guardar en favoritos</string>
     <string name="cd_unfavorite">Quitar de favoritos</string>
     <string name="cd_listen">Escuchar frase</string>
@@ -189,7 +188,7 @@
     <string name="privacy_title">Privacidad</string>
     <string name="privacy_body">Impulso no tiene cuenta ni servidor propio. Las frases y tu nombre se guardan en el almacenamiento privado de la app. Si la copia de seguridad de Android está activa, el sistema puede incluir esos datos en el respaldo de tu cuenta o al cambiar de teléfono. Exportar o compartir solo ocurre cuando tú lo pides.</string>
     <string name="about_title">Acerca de</string>
-    <string name="about_body">Impulso es un nombre provisional de Digital Rider SpA. El identificador de paquete provisional es com.example.impulso. Catálogo local versión %1$d. Cada frase muestra el autor de la hoja Frases. Si allí dice Unknown, aquí aparece Autor desconocido.</string>
+    <string name="about_body">Impulso es una app de frases en español. Funciona sin cuenta y sin conexión. Catálogo local versión %1$d. Cada frase muestra el autor de la hoja Frases. Si allí dice Unknown, aquí aparece Autor desconocido.</string>
     <string name="version_line">Versión %1$s (%2$d)</string>
     <string name="profile_saved">Perfil actualizado. Se aplicará a las próximas recomendaciones, no a la frase de hoy.</string>
     <string name="clear_history_title">Borrar historial</string>

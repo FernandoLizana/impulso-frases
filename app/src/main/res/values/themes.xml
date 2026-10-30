@@ -26,7 +26,7 @@
 
     <style name="Theme.Impulso.Splash" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">@color/splash_background</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_digital_rider</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_impulso</item>
         <item name="postSplashScreenTheme">@style/Theme.Impulso</item>
     </style>
 

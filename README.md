@@ -1,11 +1,10 @@
 # Impulso
 
-App Android de frases en español, de **Digital Rider SpA**. Se usa sin cuenta, sin conexión y sin anuncios. El nombre en el lanzador es Impulso.
+App Android de frases en español. Se usa sin cuenta, sin conexión y sin anuncios. El nombre en el lanzador es Impulso.
 
 Sirve para volver, durante un día, a una sola frase. Esa frase no cambia sola a mitad de la jornada. Se puede guardar, escuchar, compartir y, si se quiere, recibir un aviso. Los recordatorios nacen apagados.
 
 <p align="center">
-  <img src="docs/capturas/bienvenida-logo.png" width="200" alt="Bienvenida con el logo de Digital Rider SpA" />
   <img src="docs/capturas/explorar-claro.png" width="200" alt="Explorar el catálogo por categoría" />
   <img src="docs/capturas/recordatorios-claro.png" width="200" alt="Recordatorios, apagados hasta que se activen" />
 </p>
@@ -51,7 +50,7 @@ El identificador del paquete es `com.example.impulso` (provisional). La versión
 
 ## Qué se ve al abrirla
 
-La primera vez hay una bienvenida de unos tres segundos, con el logo de Digital Rider SpA. **Continuar** está disponible desde el primer momento. Si TalkBack está activo o las animaciones del sistema están en cero, la bienvenida no avanza sola. Se puede omitir para las próximas aperturas desde Ajustes. Volver a la app desde segundo plano no la repite.
+La primera vez hay una bienvenida de unos tres segundos, con el logo y el nombre de la app. **Continuar** está disponible desde el primer momento. Si TalkBack está activo o las animaciones del sistema están en cero, la bienvenida no avanza sola. Se puede omitir para las próximas aperturas desde Ajustes. Volver a la app desde segundo plano no la repite.
 
 Después, una sola vez, se puede escribir un nombre y responder dos preguntas: qué se quiere fortalecer (autoestima, calma, constancia, enfoque, cambios o gratitud) y qué tono ayuda más (cercano, directo o espiritual). El nombre se puede dejar vacío. Si se cierra a medias, las respuestas ya elegidas siguen ahí. No se pregunta por notificaciones en ese paso.
 
@@ -166,7 +165,7 @@ El aviso de hora espejo vibra un patrón corto. El canal no salta el modo no mol
 
 ## Compartir, voz y lectura
 
-Desde una frase se puede copiar el texto, compartir el texto, o guardar una imagen cuadrada o vertical. La imagen lleva el logo de Digital Rider, el nombre de la empresa y el sello «Una frase no promete resultados.» No lleva el nombre de quien usa la app y no pide permiso de almacenamiento amplio: el archivo queda en la caché de la app.
+Desde una frase se puede copiar el texto, compartir el texto, o guardar una imagen cuadrada o vertical. La imagen lleva el logo y el nombre de Impulso, y el sello «Una frase no promete resultados.» No lleva el nombre de quien usa la app y no pide permiso de almacenamiento amplio: el archivo queda en la caché de la app.
 
 Antes de guardar una frase propia se puede previsualizar esa estampa. Una frase propia tiene entre 1 y 500 caracteres, una categoría opcional, y borrar pide confirmación.
 

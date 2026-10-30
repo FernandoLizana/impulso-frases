@@ -22,7 +22,7 @@ public final class MonthPrinter {
             LocalDate today = LocalDate.now(ZoneId.systemDefault());
             StringBuilder html = new StringBuilder();
             html.append("<html><body style='font-family:serif;padding:24px'>");
-            html.append("<h1>Impulso</h1><p>Digital Rider SpA</p>");
+            html.append("<h1>Impulso</h1>");
             for (int i = 0; i < 31; i++) {
                 LocalDate date = today.minusDays(i);
                 DailyStateEntity row = ImpulsoApplication.from(activity).userData().findDailySync(date.toString());
